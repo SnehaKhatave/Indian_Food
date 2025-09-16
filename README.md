@@ -13,6 +13,8 @@ Short: Indian dishes dataset with columns: name, ingredients, diet, prep_time, c
 ![Count by diet](plots/count_diet.png)
 ![Prep time distribution](plots/prep_time_dist.png)
 ... (add more images)
+![Graph 1](graph1.png)
+
 
 ## Insights
 - Most dishes in this dataset are vegetarian (~226 vs 29 non-veg).
