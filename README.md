@@ -13,7 +13,8 @@ Short: Indian dishes dataset with columns: name, ingredients, diet, prep_time, c
 ![Count by diet](plots/count_diet.png)
 ![Prep time distribution](plots/prep_time_dist.png)
 ... (add more images)
-![Graph 1](graph1.png)
+![Graph 1](graph1.png)    
+top_flavors[1].png
 
 
 ## Insights
